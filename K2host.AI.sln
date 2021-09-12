@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "K2host.AI", "K2host.AI.csproj", "{D4DD1372-A2F0-45B1-9FC7-3213022F56CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4DD1372-A2F0-45B1-9FC7-3213022F56CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4DD1372-A2F0-45B1-9FC7-3213022F56CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4DD1372-A2F0-45B1-9FC7-3213022F56CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4DD1372-A2F0-45B1-9FC7-3213022F56CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64A91263-0A65-4CCF-9D43-020AA86A1293}
+	EndGlobalSection
+EndGlobal
