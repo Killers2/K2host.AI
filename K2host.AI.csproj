@@ -14,6 +14,7 @@
     <PackageIcon>Icon128.png</PackageIcon>
     <PackageIconUrl />
     <PackageTags>K2host, AI, Artificial Intelligence, Brain</PackageTags>
+    <SignAssembly>false</SignAssembly>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
